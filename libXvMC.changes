@@ -1,0 +1,18 @@
+* Mon Jun 13 2011 Liu, Xinyun <xinyun.liu@intel.com> - 1.0.6
+- Updated 1.0.6. Aligned to git 4f64c8. Fixed dependencies.
+
+* Sat Feb 27 2010 Anas Nashif <anas.nashif@intel.com> - 1.0.5
+- Updated with latest spectacle
+- Include YAML file in source rpm
+
+* Fri Dec 11 2009 Li Peng <peng.li@intel.com> 1.0.5
+- libXvMC 1.0.5
+
+* Tue Dec 16 2008 Anas Nashif <anas.nashif@intel.com> 1.0.4
+- Update spec file using latest spec-builder
+
+* Tue Dec 16 2008 Anas Nashif <anas.nashif@intel.com> 1.0.4
+- Update spec file using latest spec-builder
+
+* Wed Dec 03 2008 Anas Nashif <anas.nashif@intel.com> 1.0.4
+- Spec file cleanup

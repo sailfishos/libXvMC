@@ -1,0 +1,8 @@
+<package project="Mer:Trunk:Base" name="libXvMC">
+  <title>X.Org X11 libXvMC runtime library</title>
+  <description>Description: %{summary}
+
+
+</description>
+  <url>http://www.x.org/</url>
+</package>
